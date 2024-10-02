@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MADVENTURE</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="worldsk">Go to\nWorldSkills 2019</string>
+    <string name="steps">10.000 steps</string>
+    <string name="description">Description</string>
+    <string name="text">Solemos utilizar diariamente este elemento, pero si nos preguntarán ¿Qué es Internet? ¿Crees que serías capaz de responderlo? La verdad que son pocas las personas que saben lo que realmente es Internet, la utilizan diariamente, a veces todo el día o por muchas horas, pero pocos tienen claro, o saben decir que Internet es un conjunto descentralizado de redes de comunicación interconectadas.</string>
+    <string name="send">send result</string>
+</resources>
